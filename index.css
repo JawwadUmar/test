@@ -1,0 +1,15 @@
+/* styles.css */
+.speedometer {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.speed {
+    font-size: 36px;
+    color: #333;
+}
+
+#speedometer-dial {
+    width: 200px;
+    height: 200px;
+}
